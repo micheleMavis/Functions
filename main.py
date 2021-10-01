@@ -1,0 +1,4 @@
+lis = ["Akshat","Kumar","Singh"]
+lis2 =[23,34,10]
+lis3 = zip(lis, lis2)
+print(lis3)
